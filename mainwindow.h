@@ -6,6 +6,7 @@
 #include <QVector>
 #include <QHash>
 #include <algorithm>
+#include <QTextStream>
 
 namespace Ui {
 class MainWindow;

@@ -25,6 +25,8 @@ DEFINES += QT_DEPRECATED_WARNINGS
 CONFIG += c++11
 
 SOURCES += \
+        display.cpp \
+        get_accumulated_weight.cpp \
         main.cpp \
         mainwindow.cpp
 
